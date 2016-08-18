@@ -30,7 +30,8 @@
         "2amigos/yii2-qrcode-helper": "*",
         "kartik-v/yii2-field-range": "*",
         "mytharcher/alipay-php-sdk": "dev-master",
-        "warrence/yii2-kartikgii": "dev-master"
+        "warrence/yii2-kartikgii": "dev-master",
+        "dmstr/yii2-adminlte-asset": "2.*"
     },
     "require-dev": {
         "codeception/base": "^2.2.3",
